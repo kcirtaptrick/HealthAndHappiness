@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/hshack/Desktop/HealthAndHappiness/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b078784680bb82662a4e5919de1081e69427de81">
+        <dex dex="/Users/hshack/Desktop/HealthAndHappiness/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c27901b8f707c0cc3aa6008d5fa48d21a54a09c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hshack/.android/build-cache/19ff85accbe2ab2a9b204ed462e0b9dff000f515/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/hshack/Desktop/HealthAndHappiness/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_deb8699425135d49944c6bec32fdca38c1057402/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hshack/.android/build-cache/bee4c3fff9610a9b4685ae25576e6dd99c12fcc2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/hshack/Desktop/HealthAndHappiness/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6006891106df67899d784adc24b1450f4fd2d797/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hshack/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/hshack/Desktop/HealthAndHappiness/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_97d18a9cf89d80d47a08f93764578ae1519921a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hshack/.android/build-cache/15e4de033774a2d7b55bbb4f6f96b45fa465ad26/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/Users/hshack/Desktop/HealthAndHappiness/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cedb920a21ec9d190cb0216730a741e1fa4a123a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hshack/.android/build-cache/c778875e2cc715bcb96c3140c2b95b7f5c03401e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/hshack/Desktop/HealthAndHappiness/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e110ca244165c0898868d676a4d791bc718c98f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hshack/Desktop/HealthAndHappiness/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/hshack/Desktop/HealthAndHappiness/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b4112ec2948326430baee6d8250079d6de1ba05c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hshack/.android/build-cache/0a3c1a1e679e0d0fb66d7807630f7cddb9fee649/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/hshack/Desktop/HealthAndHappiness/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7778e273b2f778436d168537e7713486b3ac6144/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hshack/.android/build-cache/58b386433e906cc10474bd907cd84f770408b8d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/hshack/Desktop/HealthAndHappiness/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d03fd453f7a38a145ee6f9e0cb7f82bfdc03175/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hshack/.android/build-cache/304dd7db231b0429a3684be8ad702684a254be66/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/Users/hshack/Desktop/HealthAndHappiness/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7e0eeb7da569a672eb6b1ea6e8f5bf0fb58f52d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hshack/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/hshack/Desktop/HealthAndHappiness/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_32ff4373cda6d4f3416d927da43f17d8b37b4133/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hshack/.android/build-cache/dddf24402fc11deed2d0515d9c8aa1c6f8d7ace1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hshack/Desktop/HealthAndHappiness/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be4f3ce450d02493476dca709d70ebcfb6b22449/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hshack/.android/build-cache/ba425e79870a58b2e2a799c5dedafaadae6a521c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/hshack/Desktop/HealthAndHappiness/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb228c7da78bf271687d98626eb8a325a4b7dfc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hshack/.android/build-cache/7ba9845eb00a4b5420db19c555f521f02c34f80b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/hshack/Desktop/HealthAndHappiness/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36296a51e86c4a25e2c390bba0fc8a68704a635d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hshack/.android/build-cache/67741928fb97c3d49a4b06f1038394ef13b71e6c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/hshack/Desktop/HealthAndHappiness/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2dddc938f240c6853ba86fb6b0b0358e3c9ca82a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hshack/.android/build-cache/3191b475270a7750f85cfcb8bcc6ede6bed48304/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/Users/hshack/Desktop/HealthAndHappiness/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_357768a9e74b40c2e6ae7778fb8ff60cad1c4cfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hshack/.android/build-cache/002fd9ac96edd218b9db2dd8298c1236a429cba9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/hshack/Desktop/HealthAndHappiness/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7a1f504c9c46063e2a2925900296e7eec8a4cfc/classes.dex" />
+    </item>
+
+</items>
